@@ -1,6 +1,6 @@
 ## Hi there, I'm Shamnesiac! 👋  
 
-Welcome to my GitHub profile! I'm passionate about **software development**, **data science**, and solving challenging problems. I love working on innovative projects and expanding my knowledge across various domains.  
+Welcome to my GitHub profile! I'm passionate about **software development**, **data science**, and **solving challenging problems**. I love working on innovative projects and expanding my knowledge across various domains.  
 
 ## 🚀 About Me  
 - 🔧 **Languages & Tools**:  
@@ -22,7 +22,6 @@ Welcome to my GitHub profile! I'm passionate about **software development**, **d
   - Problem Solving through Algorithms
   - Regression analysis
   - Deep Learning
-  - Computational performance in large-scale systems
   - Developmental Economics
 
 - ✍️ **Recent Projects**:  
