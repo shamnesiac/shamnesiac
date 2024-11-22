@@ -29,12 +29,9 @@ Welcome to my GitHub profile! I'm passionate about **software development**, **d
   - **Flower Classification Using MLP**: Leveraged PCA and wavelet transforms for preprocessing; achieved significant accuracy using TensorFlow and PyTorch.
   - **Flower Classification Using CNN**: Leveraged Convolutional Neural Networks to process images; achieved very high accuracy using ResNet-18.
   - **C++ HTTP Communication**: Developed efficient tools for handling PUT/POST requests using Boost and libcurl.
-  - 
+  - **Diabetes Prediction using Data Science tools**: Used various regression, classifying and clustering analysis on Diabates related data.
 
 ## 🌐 Connect with Me  
 I'm always open to discussing exciting opportunities, exchanging knowledge, or simply connecting!  
 - 💼 [LinkedIn](https://www.linkedin.com/in/anand-anirudh/)  
 - 📫 **Email**: [anirudhanand600@gmail.com](mailto:anirudhanand600@gmail.com)  
-## 📈 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shamnesiac&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shamnesiac&layout=compact&theme=radical)  
