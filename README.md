@@ -13,8 +13,8 @@ Welcome to my GitHub profile! I'm passionate about **software development**, **d
 - 🌱 **Currently Exploring**:  
   - Advanced feature extraction techniques
   - Problems in Data Structures and Algorithms
-  - Time Complexity Optimization
-  - Dimensionality reduction (PCA, SVD, Wavelet Transforms)  
+  - Time Complexity Analysis of Algorithms
+  - Graph Algorithm Analysis
   - Deep learning architectures for image classification  
 
 - 📚 **Interests**:
