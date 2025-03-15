@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about **software development**, **d
 - 🔧 **Languages & Tools**:  
   - C/C++ (Boost, libcurl, STL)
   - Java (Collections, Java-SQL Connector, Object Oriented Programming)
-  - Python (TensorFlow, PyTorch, NumPy, Pandas, scikit-learn)  
+  - Python (TensorFlow, PyTorch, NumPy, Pandas)  
   - Jupyter Notebooks for data science workflows
   - SQL (Database management queries)
 
