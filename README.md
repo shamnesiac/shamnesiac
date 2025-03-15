@@ -24,7 +24,8 @@ Welcome to my GitHub profile! I'm passionate about **software development**, **d
   - Deep Learning
   - Developmental Economics
 
-- ✍️ **Recent Projects**:  
+- ✍️ **Recent Projects**:
+  - **Construction of an LL(1) Parser based Compiler**: Using C, we built a Compiler that parses the specified language efficiently.
   - **Flower Classification Using MLP**: Leveraged PCA and wavelet transforms for preprocessing; achieved significant accuracy using TensorFlow and PyTorch.
   - **Flower Classification Using CNN**: Leveraged Convolutional Neural Networks to process images; achieved very high accuracy using ResNet-18.
   - **C++ HTTP Communication**: Developed efficient tools for handling PUT/POST requests using Boost and libcurl.
